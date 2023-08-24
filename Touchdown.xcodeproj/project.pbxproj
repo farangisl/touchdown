@@ -116,11 +116,14 @@
 			children = (
 				0F2E374F2A8C9D0A00171378 /* App */,
 				0F2E37502A8C9D2C00171378 /* View */,
-				0F2E374E2A8C9C2D00171378 /* Data */,
 				0F2E37532A8C9E2100171378 /* Model */,
 				0F2E37542A8C9E3700171378 /* Extension */,
 				0F2E37552A8C9F5C00171378 /* Utility */,
 				0F2E373B2A8C9B6800171378 /* Assets.xcassets */,
+				0F2E37492A8C9C2700171378 /* brand.json */,
+				0F2E37462A8C9C2700171378 /* category.json */,
+				0F2E37482A8C9C2700171378 /* player.json */,
+				0F2E37472A8C9C2700171378 /* product.json */,
 				0F2E37452A8C9B8B00171378 /* Info.plist */,
 				0F2E373D2A8C9B6800171378 /* Preview Content */,
 			);
@@ -133,17 +136,6 @@
 				0F2E373E2A8C9B6800171378 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		0F2E374E2A8C9C2D00171378 /* Data */ = {
-			isa = PBXGroup;
-			children = (
-				0F2E37492A8C9C2700171378 /* brand.json */,
-				0F2E37462A8C9C2700171378 /* category.json */,
-				0F2E37482A8C9C2700171378 /* player.json */,
-				0F2E37472A8C9C2700171378 /* product.json */,
-			);
-			path = Data;
 			sourceTree = "<group>";
 		};
 		0F2E374F2A8C9D0A00171378 /* App */ = {
